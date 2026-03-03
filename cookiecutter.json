@@ -1,0 +1,12 @@
+{
+  "repo_name": "MyLibrary",
+  "github": "Amoskeag",
+  "Author": "Arthur",
+  "Institute": "Homegrown Robotics",
+  "__prompts__": {
+    "repo_name": "CamelCase, repository name.",
+    "github": "Your GitHub Username",
+    "Author": "Your name",
+    "Institute": "Institute or class, like 'My Club' or 'CS-113'"
+  }
+}
