@@ -5,7 +5,7 @@
 To add into your project
 
 ```
-git submodule add https://github.com/{{cookiecutter.github}}/{{cookiecutter.repo_name}}.git
+
 ```
 
 ## 3D Models

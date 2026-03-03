@@ -1,4 +1,4 @@
-[![Cookiecutter Test](https://github.com/KenwoodFox/Project-Template/actions/workflows/cookiecutter.yml/badge.svg)](https://github.com/KenwoodFox/Project-Template/actions/workflows/cookiecutter.yml)
+[![Cookiecutter Test](https://github.com/Amoskeag/Library-Template/actions/workflows/cookiecutter.yml/badge.svg)](https://github.com/Amoskeag/Library-Template/actions/workflows/cookiecutter.yml)
 
 # Amoskeags's Cookie Cutter Library Template
 
